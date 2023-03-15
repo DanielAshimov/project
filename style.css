@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.header__top{
+    display: flex;
+}
+.header__txt{
+    display: flex;
+}
+.header__icon{
+    margin-right: 285px;
+}
+.header__icons{
+    margin-left: 301px;
+}
+.all__products{
+    margin-right: 33px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
